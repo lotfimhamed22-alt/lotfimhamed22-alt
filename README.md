@@ -1,27 +1,18 @@
-## 👨‍💻 About Me
+# 💫 About Me:
+Hi, I'm Lotfi Mohamed from Egypt 🇪🇬<br>A Flutter Developer and Software Engineer passionate about building smooth, scalable, and high-quality mobile applications.<br><br>I work mainly with Flutter, Dart, and C++, and I enjoy turning ideas into real products with clean architecture, responsive UI, and reliable performance.
 
-Hi, I'm **Lotfi Mohamed** from Egypt 🇪🇬  
-A **Flutter Developer** and **Software Engineer** passionate about building smooth, scalable, and high-quality mobile applications.
 
-I work mainly with **Flutter**, **Dart**, and **C++**, and I enjoy turning ideas into real products with clean architecture, responsive UI, and reliable performance.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lotfimohammed123) 
 
-### 🚀 What I Do
-- Build cross-platform mobile applications
-- Solve real-world problems through software
-- Transform client ideas into functional, user-friendly products
-- Collaborate effectively with clients and development teams
-- Continuously learn and improve my development skills
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=lotfimhamed22-alt&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=lotfimhamed22-alt&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=lotfimhamed22-alt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 💼 Experience
-- Worked on real projects including **Marketi**
-- Experience working with clients and teams
-- Certified and committed to professional growth
+---
+[![](https://komarev.com/ghpvc/?username=lotfimhamed22-alt&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🎯 Current Goal
-To become a **Senior Flutter Developer** and build fast, high-quality applications that create real impact.
-
-### ⚡ Beyond Coding
-I enjoy understanding client ideas, clear communication, continuous self-development, and spending quiet time playing piano.
-
-### 📈 GitHub Goals
-Building, learning, contributing, and improving—one project at a time.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
